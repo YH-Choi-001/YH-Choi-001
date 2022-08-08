@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @YH-Choi-001
-- 👀 I’m interested in console applications and arduino programming
+- 👀 I’m interested in arduino and teensy programming
 - 🌱 I’m currently learning C++
 - 📫 How to reach me : yhei.choi@gmail.com
 
-- 9th President of the Robotics and Electronics Club of CSWCSS
+- President of the Robotics and Electronics Club of CSWCSS
 - CSWCSS Robotics Team - software team
 
 <!---
