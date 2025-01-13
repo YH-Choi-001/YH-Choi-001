@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @YH-Choi-001
-- 👀 I’m interested in Arduino programming and robotics (RCJ Soccer, line-following and bottleSumo)
-- 🌱 I’m currently learning Arduino C++ (for robotics), python (for no reason) and Java w/ swing (for getting a pass in university)
+- 👋 Hi, I’m David @YH-Choi-001
+- 👀 interested in
+  - building offline GUI apps
+  - Arduino programming
+  - robotics (RCJ Soccer, line-following and bottleSumo)
+- 🌱 currently learning Java w/ JavaFX (for getting a pass in university)
+- 🤓 experienced in
+  - Arduino C/C++
+  - AVR assembly
+- 👶 knows a little bit of
+  - fairly basic python (for presenting pseudo code)
+  - stm32 HAL/LL libraries
+  - TS used to automate Google Docs and Spreadsheets data processing
+  - front-end html / css / js
 - 📫 How to reach me : yhei.choi@gmail.com
 
 - 2021-2023 Software Team, 9th Term, Robotics Team, CSWCSS
 - Proposer and contributor of Journey Maker 9, Single Controller Integrated Systems (Omni Condition)
+
+- expected 2027 BSc Computer Science
 
 <!---
 YH-Choi-001/YH-Choi-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
