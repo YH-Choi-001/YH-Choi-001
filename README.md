@@ -17,7 +17,7 @@
 - 2021-2023 Software Team, 9th Term, Robotics Team, CSWCSS
 - Proposer and contributor of Journey Maker 9, Single Controller Integrated Systems (Omni Condition)
 
-- expected 2027 BSc Computer Science
+- on track for 1st Class Honours in BSc Computer Science, anticipated graduation in 2027
 
 <!---
 YH-Choi-001/YH-Choi-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
