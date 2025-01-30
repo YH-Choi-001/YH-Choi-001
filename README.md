@@ -4,7 +4,7 @@
   - building offline GUI apps
   - Arduino programming
   - robotics (RCJ Soccer, line-following and bottleSumo)
-- 🌱 currently learning Java w/ JavaFX (for getting a pass in university)
+- 🌱 currently learning Java w/ Swing & JavaFX (for getting a pass in university)
 - 🤓 experienced in
   - Arduino C/C++
   - AVR assembly
