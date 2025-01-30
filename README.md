@@ -1,4 +1,5 @@
 - 👋 Hi, I’m David @YH-Choi-001
+  You may know me as Yui. That's my legal first name.
 - 👀 interested in
   - building offline GUI apps
   - Arduino programming
