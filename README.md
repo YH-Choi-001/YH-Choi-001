@@ -20,7 +20,7 @@
 - 📫 How to reach me : yhei.choi@gmail.com
 
 - 2021-2023 Software Team, 9th Term, Robotics Team, CSWCSS
-- Proposer and contributor of Journey Maker 9, Single Controller Integrated Systems (Omni Condition)
+- proposer and contributor of Journey Maker 9, Single Controller Integrated Systems (Omni Condition)
 
 - on track for 1st Class Honours in BSc Computer Science, anticipated graduation in Jun 2027
 
