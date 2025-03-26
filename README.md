@@ -1,24 +1,28 @@
 - 👋 Hi, I’m David @YH-Choi-001  
   You may know me as Yui. That's my legal first name.
 - 👀 interested in
-  - building offline GUI apps
+  - building offline GUI programming tools
   - Arduino programming
   - robotics (RCJ Soccer, line-following and bottleSumo)
-- 🌱 currently learning Java w/ Swing & JavaFX (for getting a pass in university)
+- 🌱 learning
+  - Java
+    - Swing
+    - JavaFX and CSS
+  - SQL
 - 🤓 experienced in
   - Arduino C/C++
   - AVR assembly
 - 👶 knows a little bit of
-  - fairly basic python (for presenting pseudo code)
+  - fairly basic Python (for presenting pseudo code)
   - stm32 HAL/LL libraries
-  - TS used to automate Google Docs and Spreadsheets data processing
-  - front-end html / css / js
+  - TypeScript used to automate Google Docs and Spreadsheets data processing
+  - front-end HTML / CSS / JavaScript
 - 📫 How to reach me : yhei.choi@gmail.com
 
 - 2021-2023 Software Team, 9th Term, Robotics Team, CSWCSS
 - Proposer and contributor of Journey Maker 9, Single Controller Integrated Systems (Omni Condition)
 
-- on track for 1st Class Honours in BSc Computer Science, anticipated graduation in 2027
+- on track for 1st Class Honours in BSc Computer Science, anticipated graduation in Jun 2027
 
 <!---
 YH-Choi-001/YH-Choi-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
