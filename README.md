@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.svg?">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.svg?">
 
 - 👋 Hi, I’m David @YH-Choi-001  
   You may know me as Yui. That's my legal first name.
