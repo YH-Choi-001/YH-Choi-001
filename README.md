@@ -3,22 +3,29 @@
 - 👋 Hi, I’m David @YH-Choi-001  
   You may know me as Yui. That's my legal first name.
 - 👀 interested in
+  - creating scalable apps
   - building offline GUI programming tools
   - Arduino programming
   - robotics (RCJ Soccer, line-following and bottleSumo)
 - 🌱 learning
+  - Django (Python full-stack)
+  - Bootstrap (CSS library)
+  - ROS and RosPy (Robot Operating System in Python)
+  - SQL
+- 🤓 experienced in
+  - C++
   - Java
     - Swing
     - JavaFX and CSS
-  - SQL
-- 🤓 experienced in
+  - Python
+  - HTML
   - Arduino C/C++
   - AVR assembly
 - 👶 knows a little bit of
   - fairly basic Python (for presenting pseudo code)
   - stm32 HAL/LL libraries
   - TypeScript used to automate Google Docs and Spreadsheets data processing
-  - front-end HTML / CSS / JavaScript
+  - front-end JavaScript
 - 📫 How to reach me : david.choi@email.com
 
 - 2021-2023 Software Team, 9th Term, Robotics Team, CSWCSS
