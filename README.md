@@ -22,7 +22,6 @@
   - Arduino C/C++
   - AVR assembly
 - 👶 knows a little bit of
-  - fairly basic Python (for presenting pseudo code)
   - stm32 HAL/LL libraries
   - TypeScript used to automate Google Docs and Spreadsheets data processing
   - front-end JavaScript
